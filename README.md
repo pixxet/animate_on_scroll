@@ -4,7 +4,7 @@ Reveal Animations When You Scroll.
 
 
 ##Demo
-
+https://pixxet.github.io/animate_on_scroll/docs/index.html
 
 
 ##Description
